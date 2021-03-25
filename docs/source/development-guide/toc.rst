@@ -17,12 +17,21 @@ If you have questions or would like to help please open an issue on GitHub_.
    make/toc
    logging
    documentation
+   workers/toc
 
-.. configuration-file-reference
-.. metrics-api/toc
-.. workers/toc
-.. cli
-.. frontend/toc
-.. testing/toc
-.. documentation
-.. create-a-metric/toc
+.. 
+  configuration-file-reference
+.. 
+  metrics-api/toc
+.. 
+  workers/toc
+.. 
+  cli
+.. 
+  frontend/toc
+.. 
+  testing/toc
+.. 
+  documentation
+.. 
+  create-a-metric/toc
